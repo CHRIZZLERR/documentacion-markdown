@@ -107,7 +107,7 @@ Entre sus funcionalidades principales se encuentran:
 
 La siguiente imagen representa el concepto general del sistema de reservas de cine:
 
-![Imagen del proyecto](imagenes/cine.png)
+![Imagen del proyecto](https://images.unsplash.com/photo-1489599849927-2ee91cede3ba)
 
 ---
 
